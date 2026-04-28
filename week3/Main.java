@@ -41,7 +41,7 @@ public class Main {
 
     Staff staff = new Staff(name, major,generation,part,position);
 
-    System.out.println("\n=================결과=================");
+    System.out.println("===============📋결과 출력=================");
     System.out.println(lion.getInfo());
     lion.SubmissionStatus();
     System.out.println("----------------------------------------");
